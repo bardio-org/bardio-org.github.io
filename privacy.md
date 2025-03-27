@@ -1,3 +1,5 @@
+layout: page
+title: "Privacy Policy"
 # Privacy Policy
 
 **Last updated: 27th March 2025**
