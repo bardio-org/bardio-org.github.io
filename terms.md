@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Terms of Service"
+---
+
 # Terms of Service
 
 **Last updated: 27th March 2025**
@@ -8,8 +13,6 @@ By downloading, installing, or using the App, you agree to be bound by
 these Terms. If you do not agree with these Terms, please discontinue
 use of the App.
 
----
-
 ## 1. Acceptance of Terms
 
 By using the App, you represent that you have read, understood, and
@@ -18,8 +21,6 @@ our discretion. Any changes will be effective once they are posted in
 the App or on the relevant app store listing. Your continued use of the
 App after any such update constitutes your acceptance of the revised
 Terms.
-
----
 
 ## 2. Use of the App
 
@@ -37,8 +38,6 @@ Terms.
   resources, is the property of the developer or its licensors. You may
   not reproduce, distribute, modify, or create derivative works from
   this content without explicit permission.
-
----
 
 ## 3. User Responsibilities
 
@@ -59,16 +58,12 @@ Terms.
   are not liable for any loss or damage resulting from unauthorized
   access to your device or storage account.
 
----
-
 ## 4. Updates and Modifications
 
 We reserve the right to modify or discontinue, temporarily or
 permanently, any feature or functionality of the App without prior
 notice. We are not liable to you or any third party for any modification,
 suspension, or discontinuation of the App.
-
----
 
 ## 5. Disclaimer of Warranties
 
@@ -78,8 +73,6 @@ express or implied, including, but not limited to, implied warranties of
 merchantability, fitness for a particular purpose, and non-infringement.
 We do not warrant that the App will be error-free, uninterrupted, or free
 of harmful components.
-
----
 
 ## 6. Limitation of Liability
 
@@ -92,8 +85,6 @@ profits, goodwill, data, or other intangible losses resulting from:
 2. Any unauthorized access to or alteration of your data.
 3. Any other matter relating to the App.
 
----
-
 ## 7. Governing Law
 
 These Terms shall be governed by and construed in accordance with the
@@ -102,16 +93,12 @@ provisions. Any disputes arising from these Terms or the App shall be
 exclusively subject to the jurisdiction of the courts located in 
 England & Wales.
 
----
-
 ## 8. Termination
 
 We may terminate or suspend your access to the App, without prior notice
 or liability, for any reason whatsoever, including if you breach these
 Terms. Upon termination, your right to use the App will immediately
 cease.
-
----
 
 ## 9. Contact Us
 
@@ -122,6 +109,6 @@ please contact us at:
 
 ---
 
-Thank you for using our App. We appreciate your cooperation and support
+Thank you for using the App. We appreciate your cooperation and support
 in helping us maintain a safe and enjoyable learning environment for all
 users.

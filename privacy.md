@@ -31,8 +31,6 @@ educational tool.
   We do not directly collect or request any personally identifiable
   information (such as names, email addresses, or phone numbers).
 
----
-
 ## 3. Security of Your Data
 
 Since all data is stored on your device or within your chosen cloud
@@ -41,8 +39,6 @@ platforms (e.g., device encryption, iCloud security). We encourage you
 to follow best practices to protect your device and your cloud accounts
 (e.g., using strong passwords, keeping software up-to-date).
 
----
-
 ## 4. Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. Any changes will be
@@ -50,8 +46,6 @@ posted within the App or in the relevant app store listing. You are
 advised to review this Privacy Policy periodically for any changes. The
 "Last updated" date at the top indicates when this Privacy Policy was
 last revised.
-
----
 
 ## 5. Contact Us
 
