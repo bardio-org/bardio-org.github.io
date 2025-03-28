@@ -12,14 +12,10 @@ This Privacy Policy explains how we handle your information when you use
 the App. By using the App, you agree to the collection and use of
 information in accordance with this Privacy Policy.
 
----
-
 ## 1. Introduction
 
 We are committed to protecting your privacy. This App is a free
 educational tool.
-
----
 
 ## 2. Data Collection and Usage
 
